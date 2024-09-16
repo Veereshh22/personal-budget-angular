@@ -1,0 +1,41 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 70
+        },
+        {
+            "title": "Rent",
+            "budget": 500
+        },
+        {
+            "title": "Groceries",
+            "budget": 120
+        },
+        {
+            "title": "Utilities",
+            "budget": 80
+        },
+        {
+            "title": "Transport",
+            "budget": 10
+        },
+        {
+            "title": "Clubbing",
+            "budget": 30
+        },
+        {
+            "title": "Savings",
+            "budget": 200
+        },
+        {
+            "title": "Health",
+            "budget": 60
+        },
+        {
+            "title": "Clothing",
+            "budget": 40
+        }
+        
+    ]
+}
