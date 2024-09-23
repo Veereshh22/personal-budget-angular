@@ -1,11 +1,12 @@
 const express = require('express');
+const Cors = require('cors')
 const app = express();
 
 const fs = require('fs');
 const path = require('path');
 const port = 3000;
 
-app.use('/', express.static('public'));
+app.use(Cors());
 
 app.get('/budget', (req, res) =>{
     

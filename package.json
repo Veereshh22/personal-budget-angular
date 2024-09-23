@@ -1,15 +1,6 @@
 {
-  "name": "personal-budget1",
-  "version": "1.0.0",
-  "description": "The path to NGInx main folder:\r /usr/share/nginx/html",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
+    "@angular/cli": "^18.2.5",
+    "chart.js": "^4.4.4"
   }
 }
